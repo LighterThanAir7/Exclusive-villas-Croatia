@@ -1,6 +1,6 @@
 ![EVCLogo](https://github.com/user-attachments/assets/acb5384d-9dc0-48e3-9cc4-545051ac04a5)
 
-# Exclusive Villas Croatia
+# Exclusive Villas Croatia Website and Visual Identity Design
 
 This repository documents the design project for Exclusive Villas Croatia. As the lead visual designer, I was responsible for creating a new and cohesive brand identity, including a new logo, color palette, typography, and a comprehensive website design. The design aimed to enhance the user experience and align the website with the brand's luxurious and exclusive vision.
 
